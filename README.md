@@ -50,7 +50,7 @@ The system implements strict **Firestore Security Rules** to ensure data integri
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/salmanabid00/service_booking_app.git
+   git clone https://github.com/salmanabid00/Service-Booking-App.git
    ```
 2. **Install dependencies**:
    ```bash
