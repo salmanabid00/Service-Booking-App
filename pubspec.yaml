@@ -1,0 +1,26 @@
+name: service_booking_app
+description: "A professional Service Booking App with Flutter and Firebase."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  firebase_core: ^3.10.1
+  firebase_auth: ^5.4.1
+  cloud_firestore: ^5.6.1
+  get: ^4.6.6
+  intl: ^0.20.2
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
